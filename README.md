@@ -1,9 +1,9 @@
 # SQL-Projects
 These are SQL projects I created to practice my SQL skills. Here are some of the projects I want to highlight:
 
-- [SQL_DB_Library_Managment_System](url)
-- [SQLQuery_zoo]()
-- [SQLQuery_Payroll_system](url)
+- [SQL_DB_Library_Managment_System](#sql_db_library_managment_system)
+- [SQLQuery_zoo](#sqlquery_zoo)
+- [SQLQuery_Payroll_system]([url](#sqlquery_payroll_systemsql)
 
 ## SQL_DB_Library_Managment_System
 In this project I created a relational Data Base for a Library Managing System. Cataloged books, authors, publishers, borrowers, branches and branch inventory.
